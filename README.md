@@ -1,5 +1,7 @@
 # Gitfox Bookmarks
  * [gitfox]()
+   * [Why our website is faster than yours | De Voorhoede](https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/)
+   * [Become a GDB power user! : programming](https://www.reddit.com/r/programming/comments/4szfqz/become_a_gdb_power_user/?st=iqqw6e1h&sh=e728ccbf)
    * [algorithms]()
      * [self improvement - Which algorithms/data structures should I "recognize" and know by name? - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name/155649#155649)
      * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
