@@ -70,3 +70,4 @@
 * [google](http://google.ca)
 * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
 * [Google](http://google.ca)
+* [Picking Lumber](http://www.popularwoodworking.com/projects/19-tips-for-buying-and-using-rough-lumber)
