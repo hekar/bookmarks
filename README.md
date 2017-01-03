@@ -72,3 +72,4 @@
 * [Google](http://google.ca)
 * [Picking Lumber](http://www.popularwoodworking.com/projects/19-tips-for-buying-and-using-rough-lumber)
 * [Peacock Lumber](http://www.peacocklumber.ca/pricing-rough-hardwood-lumber)
+* [Wood for Stairs](http://davethehowtoguy.com/149/choosing-the-right-wood-for-your-stairs/)
