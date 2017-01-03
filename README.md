@@ -71,3 +71,4 @@
 * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
 * [Google](http://google.ca)
 * [Picking Lumber](http://www.popularwoodworking.com/projects/19-tips-for-buying-and-using-rough-lumber)
+* [Peacock Lumber](http://www.peacocklumber.ca/pricing-rough-hardwood-lumber)
